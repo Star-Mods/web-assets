@@ -1,5 +1,0 @@
-Model C:\Program Files (x86)\StarCraft II\TOOLS\web-assets\models\MissileTurret.glb does not exist.
-Model C:\Program Files (x86)\StarCraft II\TOOLS\web-assets\models\MedivacEX1.glb does not exist.
-Model C:\Program Files (x86)\StarCraft II\TOOLS\web-assets\models\DarkTemplar.glb does not exist.
-Model C:\Program Files (x86)\StarCraft II\TOOLS\web-assets\models\AdeptSpirit.glb does not exist.
-Model C:\Program Files (x86)\StarCraft II\TOOLS\web-assets\models\EggEX1.glb does not exist.
